@@ -23,6 +23,6 @@
 2. **EVCAP: Retreival-Augmented Image Captioning with External Visual-Name Memory for Open-World Comprehension(CVPR 2024)** [[PAPER]](https://arxiv.org/abs/2311.15879) [[REVIEW]](https://junyeongson.notion.site/EVCAP-Retrieval-Augmented-Image-Captioning-with-External-Visual-Name-Memory-for-Open-World-Comprehe-51acc546f45f49269fc0556476e7223f?pvs=4) [[GITHUB]](https://github.com/Jiaxuan-Li/EVCap)
 
 # Survey
-1. **Deep Industrial Image Anomaly Detection: A Survey(2023)** [[Paper]](https://arxiv.org/abs/2301.11514) [[GITHUB]](https://github.com/m-3lab/awesome-industrial-anomaly-detection)
-2. **Self-Supervised Anomaly Detection: A Survey and Outlook(2022)** [[Paper]](https://arxiv.org/abs/2205.05173) [[REVIEW]](https://junyeongson.notion.site/Self-Supervised-Anomaly-Detection-A-Survey-and-Outlook-da48b331905a414f9de73a35d4198240?pvs=4)
-3. **Vision-Language Models for Vision Tasks: A Survey(2023)** [[Paper]](https://arxiv.org/abs/2304.00685)
+1. **Deep Industrial Image Anomaly Detection: A Survey(2023)** [[PAPER]](https://arxiv.org/abs/2301.11514) [[GITHUB]](https://github.com/m-3lab/awesome-industrial-anomaly-detection)
+2. **Self-Supervised Anomaly Detection: A Survey and Outlook(2022)** [[PAPER]](https://arxiv.org/abs/2205.05173) [[REVIEW]](https://junyeongson.notion.site/Self-Supervised-Anomaly-Detection-A-Survey-and-Outlook-da48b331905a414f9de73a35d4198240?pvs=4)
+3. **Vision-Language Models for Vision Tasks: A Survey(2023)** [[PAPER]](https://arxiv.org/abs/2304.00685)
