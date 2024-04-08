@@ -1,7 +1,7 @@
 # Paper-Review
 ### 고려대학교 산업경영공학과 DSBA 연구실(강필성 교수님) 손준영 석사과정(junyeong_son@korea.ac.kr)
 - 관심 분야 논문을 읽고, 정리했습니다.
-- 리뷰 내용에 관해 수정해야하거나, 궁금한 부분 있으시다면 연락 부탁드립니다.
+- 리뷰 내용에 관해 수정해야하거나, 궁금한 부분 있으시다면 이메일을 통해 연락바랍니다.
 
 ### Reserach Interest
 - Vision-Language Pretrained Model
