@@ -13,7 +13,7 @@
 # Vision-Language Pretrained Model
 1. **mPLUG: Effective and Efficient Vision-Language Learning by Cross-modal Skip-connections(EMNLP 2022)** [[PAPER]](https://arxiv.org/abs/2205.12005) [[GITHUB]](https://github.com/X-PLUG/mPLUG)
 2. **OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework(ICML 2022)** [[PAPER]](https://arxiv.org/abs/2202.03052) [[GITHUB]](https://github.com/OFA-Sys/OFA?tab=readme-ov-file)
-3. **CoCa: Contrastive Captioners are Image-Text Foundation Models(2022) [[PAPER]](https://arxiv.org/abs/2205.01917)** [[REVIEW]](https://junyeongson.notion.site/CoCa-Contrastive-Captioners-are-Image-Text-Foundation-Models-e9f326397144468bb05d1b75f9a44e8a?pvs=4) [[YOUTUBE]](https://youtu.be/UwuY2WLE9l8?si=BRUsZZ2HK6_PFhg9)
+3. **CoCa: Contrastive Captioners are Image-Text Foundation Models(2022)** [[PAPER]](https://arxiv.org/abs/2205.01917) [[REVIEW]](https://junyeongson.notion.site/CoCa-Contrastive-Captioners-are-Image-Text-Foundation-Models-e9f326397144468bb05d1b75f9a44e8a?pvs=4) [[YOUTUBE]](https://youtu.be/UwuY2WLE9l8?si=BRUsZZ2HK6_PFhg9)
   
 # Lightweight Image Captioning Model
 1. **SmallCAP: Lightweight Image Captioning Prompted with Retrieval Augmentation(CVPR 2023)** [[PAPER]](https://arxiv.org/abs/2209.15323) [[REVIEW]](https://junyeongson.notion.site/SMALLCAP-Lightweight-Image-Captioning-Prompted-with-Retrieval-Augmentation-866360c8cc0a4ebcbdef31b9fd43f0cc?pvs=4) [[GITHUB]](https://github.com/RitaRamo/smallcap)
