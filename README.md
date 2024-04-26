@@ -2,6 +2,7 @@
 ### 고려대학교 산업경영공학과 DSBA 연구실(강필성 교수님) 손준영 석사과정(junyeong_son@korea.ac.kr)
 - 관심 분야 논문을 읽고, 정리했습니다.
 - 리뷰 내용에 관해 수정해야하거나, 궁금한 부분 있으시다면 이메일을 통해 연락바랍니다.
+- 깃허브 링크의 경우 오피셜 코드가 아닐 수 있습니다.
 
 ### Reserach Interest
 - Vision-Language Pretrained Model
@@ -11,16 +12,20 @@
 - Self-Supervised Learning
 
 # Vision-Language Pretrained Model
-1. **mPLUG: Effective and Efficient Vision-Language Learning by Cross-modal Skip-connections(EMNLP 2022)** [[PAPER]](https://arxiv.org/abs/2205.12005) [[GITHUB]](https://github.com/X-PLUG/mPLUG)
-2. **OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework(ICML 2022)** [[PAPER]](https://arxiv.org/abs/2202.03052) [[GITHUB]](https://github.com/OFA-Sys/OFA?tab=readme-ov-file)
-3. **CoCa: Contrastive Captioners are Image-Text Foundation Models(2022)** [[PAPER]](https://arxiv.org/abs/2205.01917) [[REVIEW]](https://junyeongson.notion.site/CoCa-Contrastive-Captioners-are-Image-Text-Foundation-Models-e9f326397144468bb05d1b75f9a44e8a?pvs=4) [[YOUTUBE]](https://youtu.be/UwuY2WLE9l8?si=BRUsZZ2HK6_PFhg9)
-4. **Align before Fuse: Vision and Language Representation Learning with Moementum Distillation(NeurIPS 2021 Spotlight)** [[PAPER]](https://arxiv.org/abs/2107.07651) [[GITHUB]](https://github.com/salesforce/ALBEF)
-5. **BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation(2022)** [[PAPER]](https://arxiv.org/abs/2201.12086) [[GITHUB]](https://github.com/salesforce/LAVIS)
-6. **BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models(2023)** [[PAPER]](https://arxiv.org/abs/2301.12597) [[GITHUB]](https://github.com/salesforce/LAVIS)
+1. **Align before Fuse: Vision and Language Representation Learning with Moementum Distillation(NeurIPS 2021 Spotlight)** [[PAPER]](https://arxiv.org/abs/2107.07651) [[GITHUB]](https://github.com/salesforce/ALBEF)
+2. **SimVLM: Simple Visual Language Model Pretraining with Weak Supervision(ICLR 2022)** [[PAPER]](https://arxiv.org/abs/2108.10904)
+3. **OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework(ICML 2022)** [[PAPER]](https://arxiv.org/abs/2202.03052) [[GITHUB]](https://github.com/OFA-Sys/OFA?tab=readme-ov-file)
+4. **Flamingo: a Visual Language Model for Few-Shot Learning(NeurIPS 2022)** [[PAPER]](https://arxiv.org/abs/2204.14198) [[GITHUB]](https://github.com/mlfoundations/open_flamingo)
+5. **CoCa: Contrastive Captioners are Image-Text Foundation Models(2022)** [[PAPER]](https://arxiv.org/abs/2205.01917) [[REVIEW]](https://junyeongson.notion.site/CoCa-Contrastive-Captioners-are-Image-Text-Foundation-Models-e9f326397144468bb05d1b75f9a44e8a?pvs=4) [[YOUTUBE]](https://youtu.be/UwuY2WLE9l8?si=BRUsZZ2HK6_PFhg9)
+6. **mPLUG: Effective and Efficient Vision-Language Learning by Cross-modal Skip-connections(EMNLP 2022)** [[PAPER]](https://arxiv.org/abs/2205.12005) [[GITHUB]](https://github.com/X-PLUG/mPLUG)
+7. **BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation(2022)** [[PAPER]](https://arxiv.org/abs/2201.12086) [[GITHUB]](https://github.com/salesforce/LAVIS)
+8. **BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models(2023)** [[PAPER]](https://arxiv.org/abs/2301.12597) [[GITHUB]](https://github.com/salesforce/LAVIS)
   
 # Lightweight Image Captioning Model
 1. **SmallCAP: Lightweight Image Captioning Prompted with Retrieval Augmentation(CVPR 2023)** [[PAPER]](https://arxiv.org/abs/2209.15323) [[REVIEW]](https://junyeongson.notion.site/SMALLCAP-Lightweight-Image-Captioning-Prompted-with-Retrieval-Augmentation-866360c8cc0a4ebcbdef31b9fd43f0cc?pvs=4) [[GITHUB]](https://github.com/RitaRamo/smallcap)
 2. **EVCAP: Retreival-Augmented Image Captioning with External Visual-Name Memory for Open-World Comprehension(CVPR 2024)** [[PAPER]](https://arxiv.org/abs/2311.15879) [[REVIEW]](https://junyeongson.notion.site/EVCAP-Retrieval-Augmented-Image-Captioning-with-External-Visual-Name-Memory-for-Open-World-Comprehe-51acc546f45f49269fc0556476e7223f?pvs=4) [[GITHUB]](https://github.com/Jiaxuan-Li/EVCap)
+
+# Anomaly Detection
 
 # Survey
 1. **Deep Industrial Image Anomaly Detection: A Survey(2023)** [[PAPER]](https://arxiv.org/abs/2301.11514) [[GITHUB]](https://github.com/m-3lab/awesome-industrial-anomaly-detection)
