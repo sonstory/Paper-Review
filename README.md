@@ -3,7 +3,7 @@
 - 관심 분야 논문을 읽고, 정리했습니다.
 - 리뷰 내용에 관해 수정해야하거나, 궁금한 부분 있으시다면 이메일을 통해 연락바랍니다.
 - 깃허브 링크의 경우 오피셜 코드가 아닐 수 있습니다.
-- [[YOUTUBE]] 링크에는 [DSBA 연구실 유튜브](https://www.youtube.com/@dsba2979)에서 제가 리뷰한 영상을 포함했습니다.
+- [YOUTUBE] 링크에는 [DSBA 연구실 유튜브](https://www.youtube.com/@dsba2979)에서 제가 리뷰한 영상을 포함했습니다.
 
 ### Reserach Interest
 - Vision-Language Pretrained Model
