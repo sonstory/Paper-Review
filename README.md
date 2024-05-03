@@ -19,7 +19,7 @@
 4. **Flamingo: a Visual Language Model for Few-Shot Learning(NeurIPS 2022)** [[PAPER]](https://arxiv.org/abs/2204.14198) [[GITHUB]](https://github.com/mlfoundations/open_flamingo)
 5. **CoCa: Contrastive Captioners are Image-Text Foundation Models(2022)** [[PAPER]](https://arxiv.org/abs/2205.01917) [[REVIEW]](https://junyeongson.notion.site/CoCa-Contrastive-Captioners-are-Image-Text-Foundation-Models-e9f326397144468bb05d1b75f9a44e8a?pvs=4) [[YOUTUBE]](https://youtu.be/UwuY2WLE9l8?si=BRUsZZ2HK6_PFhg9)
 6. **mPLUG: Effective and Efficient Vision-Language Learning by Cross-modal Skip-connections(EMNLP 2022)** [[PAPER]](https://arxiv.org/abs/2205.12005) [[GITHUB]](https://github.com/X-PLUG/mPLUG)
-7. **BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation(2022)** [[PAPER]](https://arxiv.org/abs/2201.12086) [[GITHUB]](https://github.com/salesforce/LAVIS)
+7. **BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation(2022)** [[PAPER]](https://arxiv.org/abs/2201.12086) [[GITHUB]](https://github.com/salesforce/LAVIS) [[REVEIW]](https://junyeongson.notion.site/BLIP-Bootstrapping-Language-Image-Pre-training-for-Unified-Vision-Language-Understanding-and-Genera-a829d1ec63f54dd8877f9ee1473aefc1?pvs=4)
 8. **BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models(2023)** [[PAPER]](https://arxiv.org/abs/2301.12597) [[GITHUB]](https://github.com/salesforce/LAVIS)
   
 # Lightweight Image Captioning Model
