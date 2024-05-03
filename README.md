@@ -1,5 +1,5 @@
 # Paper-Review
-### 고려대학교 산업경영공학과 DSBA 연구실(강필성 교수님) 손준영 석사과정(junyeong_son@korea.ac.kr)
+### 고려대학교 산업경영공학과 DSBA 연구실(지도교수 : 강필성 교수님) 석사과정 손준영(junyeong_son@korea.ac.kr)
 - 관심 분야 논문을 읽고, 정리했습니다.
 - 리뷰 내용에 관해 수정해야하거나, 궁금한 부분 있으시다면 이메일을 통해 연락바랍니다.
 - 깃허브 링크의 경우 오피셜 코드가 아닐 수 있습니다.
@@ -13,7 +13,7 @@
 - Self-Supervised Learning
 
 # Vision-Language Pretrained Model
-1. **Align before Fuse: Vision and Language Representation Learning with Moementum Distillation(NeurIPS 2021 Spotlight)** [[PAPER]](https://arxiv.org/abs/2107.07651) [[GITHUB]](https://github.com/salesforce/ALBEF)
+1. **Align before Fuse: Vision and Language Representation Learning with Moementum Distillation(NeurIPS 2021 Spotlight)** [[PAPER]](https://arxiv.org/abs/2107.07651) [[GITHUB]](https://github.com/salesforce/ALBEF) [[REVIEW]](https://junyeongson.notion.site/Align-before-Fuse-Vision-and-Language-Representation-Learning-with-Momentum-Distillation-599c983674f443a89b5c92505e27e545?pvs=4)
 2. **SimVLM: Simple Visual Language Model Pretraining with Weak Supervision(ICLR 2022)** [[PAPER]](https://arxiv.org/abs/2108.10904)
 3. **OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework(ICML 2022)** [[PAPER]](https://arxiv.org/abs/2202.03052) [[GITHUB]](https://github.com/OFA-Sys/OFA?tab=readme-ov-file)
 4. **Flamingo: a Visual Language Model for Few-Shot Learning(NeurIPS 2022)** [[PAPER]](https://arxiv.org/abs/2204.14198) [[GITHUB]](https://github.com/mlfoundations/open_flamingo)
