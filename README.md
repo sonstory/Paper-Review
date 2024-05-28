@@ -8,9 +8,7 @@
 ### Reserach Interest
 - Vision-Language Pretrained Model
 - Lightweight Image Captioning Model
-- Image Anomaly Detection
-- Computer Vision
-- Self-Supervised Learning
+- Parameter-Efficient Vision-Language Model Fine-tuning
 
 # Vision-Language Pretrained Model
 1. **Align before Fuse: Vision and Language Representation Learning with Moementum Distillation(NeurIPS 2021 Spotlight)** [[PAPER]](https://arxiv.org/abs/2107.07651) [[GITHUB]](https://github.com/salesforce/ALBEF) [[REVIEW]](https://junyeongson.notion.site/Align-before-Fuse-Vision-and-Language-Representation-Learning-with-Momentum-Distillation-599c983674f443a89b5c92505e27e545?pvs=4)
@@ -25,8 +23,6 @@
 # Lightweight Image Captioning Model
 1. **SmallCAP: Lightweight Image Captioning Prompted with Retrieval Augmentation(CVPR 2023)** [[PAPER]](https://arxiv.org/abs/2209.15323) [[REVIEW]](https://junyeongson.notion.site/SMALLCAP-Lightweight-Image-Captioning-Prompted-with-Retrieval-Augmentation-866360c8cc0a4ebcbdef31b9fd43f0cc?pvs=4) [[GITHUB]](https://github.com/RitaRamo/smallcap)
 2. **EVCAP: Retreival-Augmented Image Captioning with External Visual-Name Memory for Open-World Comprehension(CVPR 2024)** [[PAPER]](https://arxiv.org/abs/2311.15879) [[REVIEW]](https://junyeongson.notion.site/EVCAP-Retrieval-Augmented-Image-Captioning-with-External-Visual-Name-Memory-for-Open-World-Comprehe-51acc546f45f49269fc0556476e7223f?pvs=4) [[GITHUB]](https://github.com/Jiaxuan-Li/EVCap)
-
-# Anomaly Detection
 
 # Survey
 1. **Deep Industrial Image Anomaly Detection: A Survey(2023)** [[PAPER]](https://arxiv.org/abs/2301.11514) [[GITHUB]](https://github.com/m-3lab/awesome-industrial-anomaly-detection)
