@@ -6,9 +6,9 @@
 - [YOUTUBE] 링크에는 [DSBA 연구실 유튜브](https://www.youtube.com/@dsba2979)에서 제가 리뷰한 영상을 포함했습니다.
 
 ### Reserach Interest
-- Vision-Language Pretrained Model
-- Lightweight Image Captioning Model
-- Parameter-Efficient Vision-Language Model Fine-Tuning(Adapter)
+- `Vision-Language Pretrained Model(VLM)`
+- `Lightweight Image Captioning Model`
+- `Parameter-Efficient Fine-Tuning(PEFT)` using `Adapter`
 
 # Vision-Language Pretrained Model
 1. **Align before Fuse: Vision and Language Representation Learning with Moementum Distillation(NeurIPS 2021 Spotlight)** [[PAPER]](https://arxiv.org/abs/2107.07651) [[GITHUB]](https://github.com/salesforce/ALBEF) [[REVIEW]](https://junyeongson.notion.site/Align-before-Fuse-Vision-and-Language-Representation-Learning-with-Momentum-Distillation-599c983674f443a89b5c92505e27e545?pvs=4)
@@ -27,6 +27,8 @@
 
 # Parameter-Efficient Fine-Tuning(Adapter)
 1. **VL-Adapter: Parameter-Efficient Transfer Learning for Vision-and-Language Tasks** [[PAPER]](https://arxiv.org/abs/2112.06825) [[REVIEW]](https://junyeongson.notion.site/VL-Adapter-Parameter-Efficient-Transfer-Learning-for-Vision-and-Language-Tasks-1864581e9f1c4e1cb6342d449ffd99d1?pvs=4)
+2. **LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention** [[PAPER]](https://arxiv.org/abs/2303.16199) [[REVIEW]](https://junyeongson.notion.site/LLaMA-Adapter-Efficient-Fine-tuning-of-Language-Models-with-Zero-init-Attention-5de06405e68042a59128a02e301498cf?pvs=4) [[GITHUB]](https://github.com/OpenGVLab/LLaMA-Adapter)
+3. **LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model** [[PAPER]](https://arxiv.org/abs/2304.15010) [[GITHUB]](https://github.com/OpenGVLab/LLaMA-Adapter)
 
 # Survey
 1. **Deep Industrial Image Anomaly Detection: A Survey(2023)** [[PAPER]](https://arxiv.org/abs/2301.11514) [[GITHUB]](https://github.com/m-3lab/awesome-industrial-anomaly-detection)
