@@ -28,7 +28,7 @@
 - VL-Adapter: Parameter-Efficient Transfer Learning for Vision-and-Language Tasks [[PAPER]](https://arxiv.org/abs/2112.06825) [[REVIEW]](https://junyeongson.notion.site/VL-Adapter-Parameter-Efficient-Transfer-Learning-for-Vision-and-Language-Tasks-1864581e9f1c4e1cb6342d449ffd99d1?pvs=4)
 - MAGMA -- Multimodal Augmentation of Generative Models through Adapter-based Finetuning(EMNLP 2022) [[PAPER]](https://arxiv.org/abs/2112.05253) [[GITHUB]](https://github.com/Aleph-Alpha/magma?utm_source=catalyzex.com)
 - LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention(ICLR 2024) [[PAPER]](https://arxiv.org/abs/2303.16199) [[REVIEW]](https://junyeongson.notion.site/LLaMA-Adapter-Efficient-Fine-tuning-of-Language-Models-with-Zero-init-Attention-5de06405e68042a59128a02e301498cf?pvs=4) [[GITHUB]](https://github.com/OpenGVLab/LLaMA-Adapter)
-- LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model [[PAPER]](https://arxiv.org/abs/2304.15010) [[GITHUB]](https://github.com/OpenGVLab/LLaMA-Adapter)
+- LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model [[PAPER]](https://arxiv.org/abs/2304.15010) [[REVIEW]](https://junyeongson.notion.site/LLaMA-Adapter-V2-Parameter-Efficient-Visual-Instruction-Model-de194fe3727648a4b3c4e38151ae8af4?pvs=4) [[GITHUB]](https://github.com/OpenGVLab/LLaMA-Adapter)
 
 # ④ Survey
 - Deep Industrial Image Anomaly Detection: A Survey(2023) [[PAPER]](https://arxiv.org/abs/2301.11514) [[GITHUB]](https://github.com/m-3lab/awesome-industrial-anomaly-detection)
