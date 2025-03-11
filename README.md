@@ -1,5 +1,8 @@
-# VLM-ZSAD-Paper-Review
-- `Vision-Language Models(VLMs)`을 활용한 `Zero-Shot Anomaly Detection(ZSAD)`을 수행한 논문들을 리뷰합니다.
+# Paper-Review
+- DSBA 연구실 석사과정 동안 리뷰를 한 논문을 정리합니다.
+    - `Image Anomaly Detection`
+    - `Prompt Learning`
+    - `Vision-Language Models(VLMs)`
 - 리뷰 내용에 관해 수정해야하거나, 궁금한 부분 있으시다면 이메일(junyeong_son@korea.ac.kr)을 통해 연락 부탁드립니다.
 - [Youtube] 링크에는 [서울대학교 산업공학과 DSBA 연구실 유튜브](https://www.youtube.com/@dsba2979)에서 직접 제작한 리뷰 영상을 포함시켰습니다.
 - [Github] 링크의 경우 official code가 아닐 수 있습니다.
@@ -16,7 +19,7 @@
 |Fine-grained Abnormality Prompt Learning for Zero-Shot Anomaly Detection|`FAPrompt`|arXiv|2024|[[Review]](https://junyeongson.notion.site/Fine-Grained-Abnormality-Prompt-Learning-for-Zero-Shot-Anomaly-Detection-1285159f402d80b98358d2d1a81a5190?pvs=4)|[[arXiv]](https://arxiv.org/abs/2410.10289)|[[Github]](https://github.com/mala-lab/FAPrompt)|[[Youtube]](https://youtu.be/QwEgPwCnF88?si=RykmbMfk__IRKLHa)|
 
 # To DO
-- [ ] Do LLMs Understand Visual Anomalies? Uncovering LLM Capabilities in Zero-shot Anomaly Detection(ALFA)
+- [ ] 
 
 # Reference
 - https://github.com/M-3LAB/awesome-industrial-anomaly-detection
